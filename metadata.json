@@ -1,0 +1,6 @@
+{
+  "name": "StickScene Studio",
+  "description": "Interactive 30-scene minimalist stickman storyboard studio, visual line-art renderer, flipbook player, and Imagen Python batch generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
